@@ -1,0 +1,2 @@
+@-webkit-keyframes pulse{0%{background-color:hsla(0,0%,64.7%,.1)}50%{background-color:hsla(0,0%,64.7%,.3)}to{background-color:hsla(0,0%,64.7%,.1)}}@keyframes pulse{0%{background-color:hsla(0,0%,64.7%,.1)}50%{background-color:hsla(0,0%,64.7%,.3)}to{background-color:hsla(0,0%,64.7%,.1)}}.card-placeholder{-webkit-animation:pulse 1s ease-in-out infinite;animation:pulse 1s ease-in-out infinite;background:#a9a9a9;background-size:800px 104px;height:186px;width:100%;margin:15px 0;position:relative}
+/*# sourceMappingURL=14.4d75385e.chunk.css.map */

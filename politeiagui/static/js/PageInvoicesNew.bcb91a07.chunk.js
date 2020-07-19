@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{1267:function(e,n,a){"use strict";a.r(n);var t=a(0),l=a.n(t),r=a(75);n.default=function(){return l.a.createElement(r.a,null,function(e){var n=e.TopBanner,a=e.PageDetails,t=e.Sidebar,r=e.Main;return l.a.createElement(l.a.Fragment,null,l.a.createElement(n,null,l.a.createElement(a,{title:"Create Invoice"})),l.a.createElement(t,null),l.a.createElement(r,null,"Main Content"))})}}}]);
+//# sourceMappingURL=PageInvoicesNew.bcb91a07.chunk.js.map

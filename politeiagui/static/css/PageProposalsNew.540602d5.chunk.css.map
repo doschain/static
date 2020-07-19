@@ -1,0 +1,1 @@
+{"version":3,"sources":["AttachFileButton.module.css"],"names":[],"mappings":"AAAA,0CACI,SAAU,CACV,WAAY,CACZ,UAAW,CACX,YAAa,CACb,kBAAmB,CACnB,sBACJ","file":"PageProposalsNew.540602d5.chunk.css","sourcesContent":[".attachFileButton {\n    padding: 0;\n    height: 24px;\n    width: 24px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}"]}

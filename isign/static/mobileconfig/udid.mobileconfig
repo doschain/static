@@ -1,0 +1,35 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <dict>
+            <key>URL</key>
+            <string>https://isign.doschain.org/udid/receive</string>
+            <key>DeviceAttributes</key>
+            <array>
+                <string>DEVICE_NAME</string>
+                <string>UDID</string>
+                <string>IMEI</string>
+                <string>ICCID</string>
+                <string>VERSION</string>
+                <string>PRODUCT</string>
+                <string>SERIAL</string>
+                <string>MAC_ADDRESS_EN0</string>
+            </array>
+        </dict>
+        <key>PayloadOrganization</key>
+        <string>www.doschain.org</string>
+        <key>PayloadDisplayName</key>
+        <string>Demos</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>A8FDF9BB-6BDB-4001-981F-4A5DD3639EBB</string>
+        <key>PayloadIdentifier</key>
+        <string>com.pgyer.profile-service</string>
+        <key>PayloadDescription</key>
+        <string>该配置文件将帮助用户获取当前iOS设备的UDID号码。This profile will be used to find and display your current device's UDID.</string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
+</plist>

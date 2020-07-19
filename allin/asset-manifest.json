@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/css/main.fbf94f6a.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/js/main.3740a5e4.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/js/runtime-main.e3a3cba1.js",
+    "static/js/2.389e811c.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/js/2.389e811c.chunk.js",
+    "static/css/3.74391aad.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/css/3.74391aad.chunk.css",
+    "static/js/3.8e7c950b.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/js/3.8e7c950b.chunk.js",
+    "static/css/4.77146b76.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/css/4.77146b76.chunk.css",
+    "static/js/4.3fb3d50a.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/js/4.3fb3d50a.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/allin/index.html",
+    "precache-manifest.7e706b7fa75f2b9e6aa410c298b76ccc.js": "https://cdn.jsdelivr.net/gh/doschain/static/allin/precache-manifest.7e706b7fa75f2b9e6aa410c298b76ccc.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/allin/service-worker.js",
+    "static/js/2.389e811c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/js/2.389e811c.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "https://cdn.jsdelivr.net/gh/doschain/static/allin/static/media/bg.917ed206.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3a3cba1.js",
+    "static/js/2.389e811c.chunk.js",
+    "static/css/main.fbf94f6a.chunk.css",
+    "static/js/main.3740a5e4.chunk.js"
+  ]
+}
