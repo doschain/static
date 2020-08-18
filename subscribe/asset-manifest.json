@@ -1,0 +1,32 @@
+{
+  "files": {
+    "static/css/0.3a3f5775.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/0.3a3f5775.chunk.css",
+    "static/js/0.b04d02c0.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/0.b04d02c0.chunk.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/main.01e70262.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/main.ea4414a4.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/runtime-main.449dca00.js",
+    "static/css/3.650fd775.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/3.650fd775.chunk.css",
+    "static/js/3.fb9d86f9.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/3.fb9d86f9.chunk.js",
+    "static/css/4.3da79498.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/4.3da79498.chunk.css",
+    "static/js/4.7ae2d569.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/4.7ae2d569.chunk.js",
+    "static/css/5.a6a0fbda.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/5.a6a0fbda.chunk.css",
+    "static/js/5.ba798bf6.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/5.ba798bf6.chunk.js",
+    "static/css/6.b87ea650.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/6.b87ea650.chunk.css",
+    "static/js/6.d18a6cf8.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/6.d18a6cf8.chunk.js",
+    "static/css/7.d09485be.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/7.d09485be.chunk.css",
+    "static/js/7.66008526.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/7.66008526.chunk.js",
+    "static/css/8.fa457439.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/css/8.fa457439.chunk.css",
+    "static/js/8.ef230d0c.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/8.ef230d0c.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/index.html",
+    "precache-manifest.caebe3ee75cc6346b342ccec10ef02f4.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/precache-manifest.caebe3ee75cc6346b342ccec10ef02f4.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/service-worker.js",
+    "static/js/3.fb9d86f9.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe/static/js/3.fb9d86f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449dca00.js",
+    "static/css/3.650fd775.chunk.css",
+    "static/js/3.fb9d86f9.chunk.js",
+    "static/css/main.01e70262.chunk.css",
+    "static/js/main.ea4414a4.chunk.js"
+  ]
+}
