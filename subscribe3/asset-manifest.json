@@ -2,32 +2,32 @@
   "files": {
     "static/css/0.3a3f5775.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/0.3a3f5775.chunk.css",
     "static/js/0.30021b4b.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/0.30021b4b.chunk.js",
-    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/main.01e70262.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/main.21d4f7c7.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/runtime-main.c9bbe185.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/main.22e718be.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/main.afa2492d.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/runtime-main.85fd6599.js",
     "static/css/3.650fd775.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/3.650fd775.chunk.css",
     "static/js/3.6030c10d.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/3.6030c10d.chunk.js",
     "static/css/4.e3f3a44c.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/4.e3f3a44c.chunk.css",
-    "static/js/4.625f2f7a.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/4.625f2f7a.chunk.js",
+    "static/js/4.05bb5923.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/4.05bb5923.chunk.js",
     "static/css/5.fe34ab16.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/5.fe34ab16.chunk.css",
     "static/js/5.f12dd1f7.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/5.f12dd1f7.chunk.js",
     "static/css/6.d09485be.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/6.d09485be.chunk.css",
-    "static/js/6.3c3e5d95.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/6.3c3e5d95.chunk.js",
+    "static/js/6.5638e132.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/6.5638e132.chunk.js",
     "static/css/7.fa457439.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/7.fa457439.chunk.css",
-    "static/js/7.2988b820.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/7.2988b820.chunk.js",
+    "static/js/7.472a9491.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/7.472a9491.chunk.js",
     "static/css/8.13efd66a.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/8.13efd66a.chunk.css",
     "static/js/8.76aacd2b.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/8.76aacd2b.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/index.html",
-    "precache-manifest.aa15d676dd71d4964a6a962b2fac7d6b.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/precache-manifest.aa15d676dd71d4964a6a962b2fac7d6b.js",
+    "precache-manifest.f4a1c035844ac234f1f0dc890500b7c6.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/precache-manifest.f4a1c035844ac234f1f0dc890500b7c6.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/service-worker.js",
     "static/js/3.6030c10d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/3.6030c10d.chunk.js.LICENSE.txt",
     "static/media/home.module.scss": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/media/home_header_bg.740df8d8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9bbe185.js",
+    "static/js/runtime-main.85fd6599.js",
     "static/css/3.650fd775.chunk.css",
     "static/js/3.6030c10d.chunk.js",
-    "static/css/main.01e70262.chunk.css",
-    "static/js/main.21d4f7c7.chunk.js"
+    "static/css/main.22e718be.chunk.css",
+    "static/js/main.afa2492d.chunk.js"
   ]
 }
