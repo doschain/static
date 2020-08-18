@@ -1,1 +1,0 @@
-{"version":3,"sources":["history.module.scss"],"names":[],"mappings":"AACA,wBACE,eAAiB","file":"6.db03ee0d.chunk.css","sourcesContent":["@import \"../../css/share.scss\";\n.history {\n  padding: px(20) 0;\n}\n"]}
