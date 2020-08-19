@@ -1,33 +1,33 @@
 {
   "files": {
     "static/css/0.3a3f5775.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/0.3a3f5775.chunk.css",
-    "static/js/0.30021b4b.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/0.30021b4b.chunk.js",
+    "static/js/0.72f8dd81.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/0.72f8dd81.chunk.js",
     "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/main.22e718be.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/main.f2f3cf60.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/runtime-main.b26d671c.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/main.c349ba00.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/runtime-main.082f85db.js",
     "static/css/3.650fd775.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/3.650fd775.chunk.css",
-    "static/js/3.691483fa.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/3.691483fa.chunk.js",
+    "static/js/3.8b1aaefc.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/3.8b1aaefc.chunk.js",
     "static/css/4.e3f3a44c.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/4.e3f3a44c.chunk.css",
-    "static/js/4.ea91a1ea.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/4.ea91a1ea.chunk.js",
+    "static/js/4.80aae09c.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/4.80aae09c.chunk.js",
     "static/css/5.fe34ab16.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/5.fe34ab16.chunk.css",
     "static/js/5.4e32d267.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/5.4e32d267.chunk.js",
-    "static/css/6.d09485be.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/6.d09485be.chunk.css",
-    "static/js/6.273dcd2e.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/6.273dcd2e.chunk.js",
+    "static/css/6.d6b98e16.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/6.d6b98e16.chunk.css",
+    "static/js/6.36ea8a44.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/6.36ea8a44.chunk.js",
     "static/css/7.fa457439.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/7.fa457439.chunk.css",
-    "static/js/7.e0e99b7d.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/7.e0e99b7d.chunk.js",
+    "static/js/7.c875f55f.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/7.c875f55f.chunk.js",
     "static/css/8.4bbdd75a.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/css/8.4bbdd75a.chunk.css",
     "static/js/8.2e2d800e.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/8.2e2d800e.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/index.html",
-    "precache-manifest.e06915398d6d3d5e0c882196d6e392ec.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/precache-manifest.e06915398d6d3d5e0c882196d6e392ec.js",
+    "precache-manifest.0f248a17a2243a9b9bf4bee901aaa2d4.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/precache-manifest.0f248a17a2243a9b9bf4bee901aaa2d4.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/service-worker.js",
-    "static/js/3.691483fa.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/3.691483fa.chunk.js.LICENSE.txt",
+    "static/js/3.8b1aaefc.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/js/3.8b1aaefc.chunk.js.LICENSE.txt",
     "static/media/home.module.scss": "https://cdn.jsdelivr.net/gh/doschain/static/subscribe3/static/media/home_header_bg.740df8d8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b26d671c.js",
+    "static/js/runtime-main.082f85db.js",
     "static/css/3.650fd775.chunk.css",
-    "static/js/3.691483fa.chunk.js",
+    "static/js/3.8b1aaefc.chunk.js",
     "static/css/main.22e718be.chunk.css",
-    "static/js/main.f2f3cf60.chunk.js"
+    "static/js/main.c349ba00.chunk.js"
   ]
 }
