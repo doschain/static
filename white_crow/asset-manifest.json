@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/main.ab5e5f7d.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/main.6ac0f6ed.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/main.6ac0f6ed.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/runtime-main.e5eb80d3.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/runtime-main.e5eb80d3.js.map",
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/main.ad91ed1d.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/main.300624b2.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/main.300624b2.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/runtime-main.c7a98ad7.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/runtime-main.c7a98ad7.js.map",
     "static/js/2.392a57bc.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/2.392a57bc.chunk.js",
     "static/js/2.392a57bc.chunk.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/2.392a57bc.chunk.js.map",
     "static/js/3.d333e0a0.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/3.d333e0a0.chunk.js",
@@ -13,27 +13,27 @@
     "static/js/4.275756e2.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/4.275756e2.chunk.js",
     "static/js/4.275756e2.chunk.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/4.275756e2.chunk.js.map",
     "static/css/5.01ae0dc3.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/5.01ae0dc3.chunk.css",
-    "static/js/5.251f80b9.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/5.251f80b9.chunk.js",
-    "static/js/5.251f80b9.chunk.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/5.251f80b9.chunk.js.map",
+    "static/js/5.b85a11f5.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/5.b85a11f5.chunk.js",
+    "static/js/5.b85a11f5.chunk.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/5.b85a11f5.chunk.js.map",
     "static/css/6.51301912.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/6.51301912.chunk.css",
     "static/js/6.57b14d55.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/6.57b14d55.chunk.js",
     "static/js/6.57b14d55.chunk.js.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/6.57b14d55.chunk.js.map",
     "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/index.html",
-    "precache-manifest.7b8e31fb46ef4584bdd7a7fc090d0d90.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/precache-manifest.7b8e31fb46ef4584bdd7a7fc090d0d90.js",
+    "precache-manifest.9ce559df76ffcbb7672c62368830e87d.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/precache-manifest.9ce559df76ffcbb7672c62368830e87d.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/service-worker.js",
     "static/css/4.c4045c8d.chunk.css.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/4.c4045c8d.chunk.css.map",
     "static/css/5.01ae0dc3.chunk.css.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/5.01ae0dc3.chunk.css.map",
     "static/css/6.51301912.chunk.css.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/6.51301912.chunk.css.map",
-    "static/css/main.ab5e5f7d.chunk.css.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/main.ab5e5f7d.chunk.css.map",
+    "static/css/main.ad91ed1d.chunk.css.map": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/css/main.ad91ed1d.chunk.css.map",
     "static/js/2.392a57bc.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/2.392a57bc.chunk.js.LICENSE.txt",
     "static/js/4.275756e2.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/js/4.275756e2.chunk.js.LICENSE.txt",
     "static/media/global.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/media/D-DINExp.9b8a6d79.ttf",
     "static/media/style.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow/static/media/home_bg3.ac427554.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5eb80d3.js",
+    "static/js/runtime-main.c7a98ad7.js",
     "static/js/2.392a57bc.chunk.js",
-    "static/css/main.ab5e5f7d.chunk.css",
-    "static/js/main.6ac0f6ed.chunk.js"
+    "static/css/main.ad91ed1d.chunk.css",
+    "static/js/main.300624b2.chunk.js"
   ]
 }
