@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/main.1a8e52b9.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/main.3c1839a8.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/runtime-main.ce414e0e.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/main.8199185d.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/main.ca7ba30e.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/runtime-main.688aaca7.js",
     "static/js/2.289e7d84.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/2.289e7d84.chunk.js",
     "static/js/3.81a968c3.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/3.81a968c3.chunk.js",
     "static/css/4.08cb71fb.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/4.08cb71fb.chunk.css",
     "static/js/4.444be24f.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/4.444be24f.chunk.js",
-    "static/css/5.ce7fc244.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/5.ce7fc244.chunk.css",
-    "static/js/5.0b6f1e5f.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.0b6f1e5f.chunk.js",
+    "static/css/5.5fc9cf13.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/5.5fc9cf13.chunk.css",
+    "static/js/5.0d8ba78a.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.0d8ba78a.chunk.js",
     "static/css/6.8f68a5cc.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/6.8f68a5cc.chunk.css",
     "static/js/6.a979238f.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/6.a979238f.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/index.html",
-    "precache-manifest.ae6ddeaa108545b69e13a5a2dc987b14.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/precache-manifest.ae6ddeaa108545b69e13a5a2dc987b14.js",
+    "precache-manifest.13ddaf066a7d46399ccc26310d4097fe.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/precache-manifest.13ddaf066a7d46399ccc26310d4097fe.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/service-worker.js",
     "static/js/2.289e7d84.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/2.289e7d84.chunk.js.LICENSE.txt",
     "static/js/4.444be24f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/4.444be24f.chunk.js.LICENSE.txt",
-    "static/js/5.0b6f1e5f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.0b6f1e5f.chunk.js.LICENSE.txt",
+    "static/js/5.0d8ba78a.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.0d8ba78a.chunk.js.LICENSE.txt",
     "static/media/global.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/media/D-DINExp.9b8a6d79.ttf",
     "static/media/style.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/media/home_bg3.999297a8.png",
     "static/media/matrix.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/media/m_bg_3.1aa4abbf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce414e0e.js",
+    "static/js/runtime-main.688aaca7.js",
     "static/js/2.289e7d84.chunk.js",
-    "static/css/main.1a8e52b9.chunk.css",
-    "static/js/main.3c1839a8.chunk.js"
+    "static/css/main.8199185d.chunk.css",
+    "static/js/main.ca7ba30e.chunk.js"
   ]
 }
