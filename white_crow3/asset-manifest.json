@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/css/main.b290b189.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/main.24953a0e.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/runtime-main.8509b63f.js",
+    "static/js/2.1a2f0c6e.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/2.1a2f0c6e.chunk.js",
+    "static/js/3.b4be5580.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/3.b4be5580.chunk.js",
+    "static/css/4.af28ba23.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/css/4.af28ba23.chunk.css",
+    "static/js/4.5233100b.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/4.5233100b.chunk.js",
+    "static/css/5.a68227d4.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/css/5.a68227d4.chunk.css",
+    "static/js/5.26341d8e.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/5.26341d8e.chunk.js",
+    "static/css/6.724915a0.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/css/6.724915a0.chunk.css",
+    "static/js/6.a9b5dc1d.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/6.a9b5dc1d.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/index.html",
+    "precache-manifest.841f508a78f369b2238e9b293e790955.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/precache-manifest.841f508a78f369b2238e9b293e790955.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/service-worker.js",
+    "static/js/2.1a2f0c6e.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/2.1a2f0c6e.chunk.js.LICENSE.txt",
+    "static/js/4.5233100b.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/4.5233100b.chunk.js.LICENSE.txt",
+    "static/js/5.26341d8e.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/js/5.26341d8e.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/media/D-DINExp.9b8a6d79.ttf",
+    "static/media/style.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/media/home_bg3.999297a8.png",
+    "static/media/matrix.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow3/static/media/m_bg_3.1aa4abbf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8509b63f.js",
+    "static/js/2.1a2f0c6e.chunk.js",
+    "static/css/main.b290b189.chunk.css",
+    "static/js/main.24953a0e.chunk.js"
+  ]
+}
