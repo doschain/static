@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/main.44c3e1f5.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/main.82313256.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/runtime-main.37e54d81.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/main.09b6654d.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/main.fa212df5.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/runtime-main.43d308e1.js",
     "static/js/2.1a2f0c6e.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/2.1a2f0c6e.chunk.js",
     "static/js/3.b4be5580.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/3.b4be5580.chunk.js",
-    "static/css/4.6908fd7b.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/4.6908fd7b.chunk.css",
-    "static/js/4.07211838.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/4.07211838.chunk.js",
+    "static/css/4.cc1d0374.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/4.cc1d0374.chunk.css",
+    "static/js/4.5160e95f.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/4.5160e95f.chunk.js",
     "static/css/5.142a631e.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/5.142a631e.chunk.css",
-    "static/js/5.4c2ecff1.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.4c2ecff1.chunk.js",
+    "static/js/5.2894d2a0.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.2894d2a0.chunk.js",
     "static/css/6.d6311b21.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/css/6.d6311b21.chunk.css",
     "static/js/6.97203db5.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/6.97203db5.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/index.html",
-    "precache-manifest.a86e90785d682f40c992b72ae8f63aa2.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/precache-manifest.a86e90785d682f40c992b72ae8f63aa2.js",
+    "precache-manifest.d58f6c4c0d5fb5fc42822632bc9b7407.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/precache-manifest.d58f6c4c0d5fb5fc42822632bc9b7407.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/service-worker.js",
     "static/js/2.1a2f0c6e.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/2.1a2f0c6e.chunk.js.LICENSE.txt",
-    "static/js/4.07211838.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/4.07211838.chunk.js.LICENSE.txt",
-    "static/js/5.4c2ecff1.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.4c2ecff1.chunk.js.LICENSE.txt",
+    "static/js/4.5160e95f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/4.5160e95f.chunk.js.LICENSE.txt",
+    "static/js/5.2894d2a0.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/js/5.2894d2a0.chunk.js.LICENSE.txt",
     "static/media/global.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/media/D-DINExp.9b8a6d79.ttf",
     "static/media/style.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/media/home_bg3.999297a8.png",
     "static/media/matrix.scss": "https://cdn.jsdelivr.net/gh/doschain/static/white_crow2/static/media/m_bg_3.1aa4abbf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.37e54d81.js",
+    "static/js/runtime-main.43d308e1.js",
     "static/js/2.1a2f0c6e.chunk.js",
-    "static/css/main.44c3e1f5.chunk.css",
-    "static/js/main.82313256.chunk.js"
+    "static/css/main.09b6654d.chunk.css",
+    "static/js/main.fa212df5.chunk.js"
   ]
 }
