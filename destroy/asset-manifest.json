@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/css/main.e19bab13.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/main.ed250e1c.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/runtime-main.9195ae7c.js",
-    "static/js/2.50a96f91.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/2.50a96f91.chunk.js",
-    "static/css/3.01712836.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/css/3.01712836.chunk.css",
-    "static/js/3.688f084c.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/3.688f084c.chunk.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/css/main.8e3b0d2d.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/main.c1547770.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/runtime-main.3f74dca6.js",
+    "static/js/2.681775c9.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/2.681775c9.chunk.js",
+    "static/css/3.acbc2ba5.chunk.css": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/css/3.acbc2ba5.chunk.css",
+    "static/js/3.b3ab92c5.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/3.b3ab92c5.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/index.html",
-    "precache-manifest.61d0c27ba7d0a58dcc5edd3bdc8d807b.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/precache-manifest.61d0c27ba7d0a58dcc5edd3bdc8d807b.js",
+    "precache-manifest.67e0fd5df548eaede2d14009882130ad.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/precache-manifest.67e0fd5df548eaede2d14009882130ad.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/service-worker.js",
-    "static/js/2.50a96f91.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/2.50a96f91.chunk.js.LICENSE.txt",
+    "static/js/2.681775c9.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/js/2.681775c9.chunk.js.LICENSE.txt",
     "static/media/global.scss": "https://cdn.jsdelivr.net/gh/doschain/static/destroy/static/media/bg.b3002bf3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9195ae7c.js",
-    "static/js/2.50a96f91.chunk.js",
-    "static/css/main.e19bab13.chunk.css",
-    "static/js/main.ed250e1c.chunk.js"
+    "static/js/runtime-main.3f74dca6.js",
+    "static/js/2.681775c9.chunk.js",
+    "static/css/main.8e3b0d2d.chunk.css",
+    "static/js/main.c1547770.chunk.js"
   ]
 }
