@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "093e00827b8e4c02dd8e6b707888f2cf",
+    "revision": "330c2372ec78cf6a452d68e4bfad6960",
     "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/index.html"
   },
   {
-    "revision": "6f17429f105fd16f0dac",
-    "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/css/main.b2e4826e.chunk.css"
+    "revision": "5b3fbc0f56e58839620d",
+    "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/css/main.14ba9869.chunk.css"
   },
   {
     "revision": "445c1ae7077fb40f9dd0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/2.f8e6e47c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f17429f105fd16f0dac",
-    "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/main.547d6f7f.chunk.js"
+    "revision": "5b3fbc0f56e58839620d",
+    "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/main.daadc30a.chunk.js"
   },
   {
     "revision": "c69c08b196dd968e4fbe",
