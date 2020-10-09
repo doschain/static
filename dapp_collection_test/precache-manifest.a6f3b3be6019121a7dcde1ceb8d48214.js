@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c68dcaceb58346335e4daa8e79b7690",
+    "revision": "85c3ebfaf3b25512e12e81e4c080489f",
     "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/index.html"
   },
   {
-    "revision": "e308e5e5518213d1e76f",
+    "revision": "4f300182e61f39784946",
     "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/css/main.0cd0d285.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/2.f8e6e47c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e308e5e5518213d1e76f",
-    "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/main.a7466f44.chunk.js"
+    "revision": "4f300182e61f39784946",
+    "url": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/main.d1df0ecc.chunk.js"
   },
   {
     "revision": "c69c08b196dd968e4fbe",
