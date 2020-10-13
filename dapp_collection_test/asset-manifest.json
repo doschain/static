@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/css/main.0bc4f604.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/main.00d630ba.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/main.a69f2f9d.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/runtime-main.57c5d291.js",
-    "static/js/2.00368809.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/2.00368809.chunk.js",
+    "static/js/2.170c3d47.chunk.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/2.170c3d47.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/index.html",
-    "precache-manifest.df326fcb946ac00e1540136c4d662005.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/precache-manifest.df326fcb946ac00e1540136c4d662005.js",
+    "precache-manifest.703fa9a7ee9c251a1bf07013b5801485.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/precache-manifest.703fa9a7ee9c251a1bf07013b5801485.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/service-worker.js",
-    "static/js/2.00368809.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/2.00368809.chunk.js.LICENSE.txt"
+    "static/js/2.170c3d47.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/doschain/static/dapp_collection_test/static/js/2.170c3d47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.57c5d291.js",
-    "static/js/2.00368809.chunk.js",
+    "static/js/2.170c3d47.chunk.js",
     "static/css/main.0bc4f604.chunk.css",
-    "static/js/main.00d630ba.chunk.js"
+    "static/js/main.a69f2f9d.chunk.js"
   ]
 }
